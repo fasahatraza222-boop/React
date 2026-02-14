@@ -30,6 +30,8 @@ const removeValue = ()=>{
       onClick={addValue}
       >Add value</button>
       <br />
+      <br />
+      
 
 
        <button
